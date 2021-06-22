@@ -12,7 +12,7 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 3 Title](/hw2.Rmd)
+[Project 3 Title](https://sites.google.com/view/feizhepku)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
