@@ -1,10 +1,10 @@
-## Portfolio
+## Projects
 
 ---
 
 ### Category Name 1 
 
-[CSI](/hw2.Rmd)
+[CSI](/hw1.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/hw1.html)
+[Project 3 Title](/hw2.Rmd)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
