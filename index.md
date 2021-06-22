@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[CSI](/sample_page)
+[CSI](/hw2.Rmd)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
