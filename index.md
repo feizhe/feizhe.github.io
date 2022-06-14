@@ -1,26 +1,24 @@
-## Projects
+## Research
 
 ---
 
 ### Recent projects
 
-[LACOE 2021 Spring Surveys](/CSI/LACOE/springsurvey.html)
+[Universal DNA methylation age across mammalian tissues](https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[LACOE](/pdf/sample_presentation.pdf)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-[Project 3 Title](https://sites.google.com/view/feizhepku)
+[Inference for High-Dimensional Censored Quantile Regression](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1957900?journalCode=uasa20)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
-### Teaching
+[Estimation and Inference for High Dimensional Generalized Linear Models: A Splitting and Smoothing Approach](https://www.jmlr.org/papers/v22/19-132.html)
 
-- [Course 1 Title](http://example.com/)
-- [Course 2 Title](http://example.com/)
+## Teaching
+
+- [BIOSTAT 200C](https://ccle.ucla.edu/)
+- [BIOSTAT 274: Topics in Statistical Learning](https://ccle.ucla.edu/)
 
 ---
 
