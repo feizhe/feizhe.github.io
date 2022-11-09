@@ -23,6 +23,7 @@
 
 ## Teaching
 
+- [STAT 146](canvas.ucr.edu)
 - [BIOSTAT 200C](https://ccle.ucla.edu/)
 - [BIOSTAT 274: Topics in Statistical Learning](https://ccle.ucla.edu/)
 
