@@ -4,7 +4,7 @@
 
 ### Recent projects
 
-[RimNet: A Deep Neural Network Pipeline for Automated Identification of the Optic Disc Rim]([https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full](https://www.ophthalmologyscience.org/article/S2666-9145(22)00133-6/fulltext)
+[RimNet: A Deep Neural Network Pipeline for Automated Identification of the Optic Disc Rim](https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full](https://www.ophthalmologyscience.org/article/S2666-9145(22)00133-6/fulltext)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
