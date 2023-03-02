@@ -4,8 +4,7 @@
 
 ### Recent projects
 
-[DDLSNet: A Novel Deep Learning-Based System for Grading Funduscopic Images for Glaucomatous Damage]
-(https://www.ophthalmologyscience.org/article/S2666-9145(22)00144-0/fulltext)
+[DDLSNet: A Novel Deep Learning-Based System for Grading Funduscopic Images for Glaucomatous Damage](https://www.ophthalmologyscience.org/article/S2666-9145(22)00144-0/fulltext)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
