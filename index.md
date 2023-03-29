@@ -30,7 +30,7 @@
 
 ## Teaching
 
-- [STAT 207: Advanced Statistical Computing] (teaching/STAT207/1.-Intro.html)
+- [STAT 207: Advanced Statistical Computing] (/teaching/STAT207/1.-Intro.html)
 - [STAT 110: Biostatistical Methods in Life Sciences](https://elearn.ucr.edu/)
 - [STAT 146: Statistical Forecasting Techniques](https://elearn.ucr.edu/)
 - [BIOSTAT 200C](https://ccle.ucla.edu/)
