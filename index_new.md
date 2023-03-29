@@ -5,7 +5,7 @@ layout: default
 <!-- Sidebar -->
 <div class="sidebar">
     <header class="site-title">
-        <a href="{{ site.url }}">{{ site.title }}</a>
+        <a href="{{ site.url }}">{{ Zhe Fei }}</a>
     </header>
     <nav class="sidebar-nav">
         <ul>
