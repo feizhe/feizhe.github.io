@@ -1,5 +1,5 @@
 
-I am an Assistant Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in Biostatistics from University of Michigan, Ann Arbor in 2019.
+I am an Assistant Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from [University of Michigan, Ann Arbor](https://umich.edu/) in 2019.
 
 ---
 
