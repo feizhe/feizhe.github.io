@@ -9,6 +9,11 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 
 ### Recent projects
 
+[Fundamental equations linking methylation dynamics to maximum lifespan in mammals](https://www.biorxiv.org/content/10.1101/2023.05.21.541643v2.abstract),
+[Code](https://github.com/feizhe/FundamentalEquations)
+
+---
+
 [DDLSNet: A Novel Deep Learning-Based System for Grading Funduscopic Images for Glaucomatous Damage](https://www.ophthalmologyscience.org/article/S2666-9145(22)00144-0/fulltext)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
