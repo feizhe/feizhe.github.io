@@ -41,10 +41,10 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 ## Teaching
 
 - [STAT 207: Advanced Statistical Computing](https://feizhe.github.io/STAT_207/)
-- [STAT 110: Biostatistical Methods in Life Sciences](https://elearn.ucr.edu/)
-- [STAT 146: Statistical Forecasting Techniques](https://elearn.ucr.edu/)
-- [BIOSTAT 200C](https://ccle.ucla.edu/)
-- [BIOSTAT 274: Topics in Statistical Machine Learning](https://ccle.ucla.edu/)
+- [STAT 110: Biostatistical Methods in Life Sciences](/teaching/Syllabus_STAT110_W2024)
+- [STAT 146: Statistical Forecasting Techniques](/teaching/STAT146-syllabus_W2024)
+- [BIOSTAT 200C](/teaching/BIOSTAT_200C_S2022)
+- [BIOSTAT 274: Topics in Statistical Machine Learning](/teaching/BIOS 274)
 
 ---
 
