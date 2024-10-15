@@ -9,7 +9,7 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 
 ### Recent projects
 
-[Fundamental equations linking methylation dynamics to maximum lifespan in mammals](https://www.biorxiv.org/content/10.1101/2023.05.21.541643v2.abstract),
+Our paper, [Fundamental equations linking methylation dynamics to maximum lifespan in mammals](https://www.biorxiv.org/content/10.1101/2023.05.21.541643v2.abstract), is officially published at [Nature Communications](https://www.nature.com/articles/s41467-024-51855-z). 
 [Code](https://github.com/feizhe/FundamentalEquations)
 
 ---
