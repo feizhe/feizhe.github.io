@@ -9,6 +9,15 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 
 ### Recent projects
 
+[U-learning for Prediction Inference via Combinatory Multi-Subsampling: With Applications to LASSO and Neural Networks](https://arxiv.org/abs/2407.15301), is presented at [SLDS 2024](https://sites.google.com/view/slds2024/menu/program?authuser=0). 
+[Code](https://github.com/feizhe/U-learning)
+
+---
+
+[Benchmarking open-source large language models, GPT-4 and Claude 2 on multiple-choice questions in nephrology](https://ai.nejm.org/doi/full/10.1056/AIdbp2300092)
+
+---
+
 Our paper, [Fundamental equations linking methylation dynamics to maximum lifespan in mammals](https://www.biorxiv.org/content/10.1101/2023.05.21.541643v2.abstract), is officially published at [Nature Communications](https://www.nature.com/articles/s41467-024-51855-z). 
 [Code](https://github.com/feizhe/FundamentalEquations)
 
