@@ -1,65 +1,38 @@
-
-I am an Assistant Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from [University of Michigan, Ann Arbor](https://umich.edu/) in 2019.
-
 ---
-
-## Research
-
----
-
-### Recent projects
-
-[U-learning for Prediction Inference via Combinatory Multi-Subsampling: With Applications to LASSO and Neural Networks](https://arxiv.org/abs/2407.15301), is presented at [SLDS 2024](https://sites.google.com/view/slds2024/menu/program?authuser=0). 
-[Code](https://github.com/feizhe/U-learning)
-
----
-
-[Benchmarking open-source large language models, GPT-4 and Claude 2 on multiple-choice questions in nephrology](https://ai.nejm.org/doi/full/10.1056/AIdbp2300092)
-
----
-
-Our paper, [Fundamental equations linking methylation dynamics to maximum lifespan in mammals](https://www.biorxiv.org/content/10.1101/2023.05.21.541643v2.abstract), is officially published at [Nature Communications](https://www.nature.com/articles/s41467-024-51855-z). 
-[Code](https://github.com/feizhe/FundamentalEquations)
-
----
-
-[DDLSNet: A Novel Deep Learning-Based System for Grading Funduscopic Images for Glaucomatous Damage](https://www.ophthalmologyscience.org/article/S2666-9145(22)00144-0/fulltext)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-[RimNet: A Deep Neural Network Pipeline for Automated Identification of the Optic Disc Rim](https://www.ophthalmologyscience.org/article/S2666-9145(22)00133-6/fulltext)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-[Universal DNA methylation age across mammalian tissues](https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-[Inference for High-Dimensional Censored Quantile Regression](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1957900?journalCode=uasa20),
-[Code](https://github.com/feizhe/HDCQR_Paper)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-[Estimation and Inference for High Dimensional Generalized Linear Models: A Splitting and Smoothing Approach](https://www.jmlr.org/papers/v22/19-132.html),
-[Code](https://github.com/feizhe/SSHDI)
-
-## Teaching
-
-- [STAT 207: Advanced Statistical Computing](https://feizhe.github.io/STAT_207/)
-- [STAT 110: Biostatistical Methods in Life Sciences](/teaching/Syllabus_STAT110_W2024.pdf)
-- [STAT 146: Statistical Forecasting Techniques](/teaching/STAT146-syllabus_W2024.pdf)
-- [BIOSTAT 200C](/teaching/BIOSTAT_200C_S2022.pdf)
-- [BIOSTAT 274: Topics in Statistical Machine Learning](/teaching/BIOS_274.pdf)
-
+layout: index
+title: Zhe FEI
 ---
 
 
+<!-- Place your image, links, and text directly here: -->
+<div style="float: right; max-width: 200px; margin: 0 0 1em 1em;">
+  <img src="/images/IMG_1153.png?raw=true" alt="Zhe Fei photo" style="width: 100%;">
+</div>
+
+<h2>Zhe FEI</h2>
+
+**Assistant Professor**  
+[Statistics Department](https://statistics.ucr.edu/) 
+<br>
+[University of California Riverside](https://www.ucr.edu/)
+<br>
+**Office**: Olmsted 1344
+<br>
+**Github**: [@feizhe](https://github.com/feizhe)  
+<br>
+**Email**: zhe.fei AT ucr DOT edu
+<br>
+**[CV](https://www.dropbox.com/scl/fi/fghg2z72255fzr72jfmf2/CV_ZheFei-2022_v2.pdf?rlkey=dkwqk9anm858tah5qfrv89tzs&dl=0)**
+<br>
+**[Google Scholar](https://scholar.google.com/citations?user=p_EExuwAAAAJ&hl=en)**
+<br>
+
+### About me
+
+I am an Assistant Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from [University of Michigan, Ann Arbor](https://umich.edu/), and B.S. in Statistics and Economics from [Peking University](https://english.pku.edu.cn/).
 
 
----
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
+
+### Research Interests
+
+My research is at the intersection of statistical inference and deep learning. Current research interests include high dimensional inference, deep learning with image data, causal mediation analysis, knockoff inference, natural language processing, among others. My research is widely applied in epigenetics, medical imaging, electronic health records, and other public health areas.
