@@ -22,7 +22,7 @@ title: Zhe FEI
 <br>
 **Email**: zhe.fei AT ucr DOT edu
 <br>
-**[CV](https://www.dropbox.com/scl/fi/fghg2z72255fzr72jfmf2/CV_ZheFei-2022_v2.pdf?rlkey=dkwqk9anm858tah5qfrv89tzs&dl=0)**
+**[CV](https://www.dropbox.com/scl/fi/dr1qh7wcumfa8joefvubg/Academic_CV_Zhe_FEI.pdf?rlkey=mesj52mv603ti0tqm2hb871tu&st=ger31u7t&dl=0)**
 <br>
 **[Google Scholar](https://scholar.google.com/citations?user=p_EExuwAAAAJ&hl=en)**
 <br>
