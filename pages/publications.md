@@ -9,6 +9,10 @@ For a full list of my work, see [Google Scholar](https://scholar.google.com/cita
 
 ### Recent projects
 
+[Novel Knockoff Generation and Importance Measures with Heterogeneous Data via Conditional Residuals and Local Gradients](https://arxiv.org/abs/2508.14882)
+[Package_1](https://github.com/mtcade/rangerKnockoff)
+[Package_2](https://github.com/mtcade/Mald)
+
 [U-learning for Prediction Inference via Combinatory Multi-Subsampling: With Applications to LASSO and Neural Networks](https://arxiv.org/abs/2407.15301), is presented at [SLDS 2024](https://sites.google.com/view/slds2024/menu/program?authuser=0). 
 [Code](https://github.com/feizhe/U-learning)
 
