@@ -40,3 +40,5 @@ My research is at the intersection of statistical inference and deep learning. C
 ### Recent News
 
 - Our [paper on LLM for EHR data extraction](https://www.dropbox.com/scl/fi/nttbx9u5olfri541xmeau/EHRLLM_NIPS.pdf?rlkey=i6h2d99ddzl6ecd13s7l5q6tg&st=903gfijn&dl=0) has been accepted at The Second Workshop on GenAI for Health at NeurIPS 2025.
+
+- Congratulations to [Jericho Lawson](https://www.smith.edu/people/jericho-lawson) on beginning his appointment as Visiting Professor of Teaching at Smith College in fall 2025.
