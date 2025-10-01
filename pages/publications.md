@@ -7,11 +7,19 @@ For a full list of my work, see [Google Scholar](https://scholar.google.com/cita
 
 ---
 
-### Recent projects
+### Recent projects and papers
+
+[DINO-EYE: Self-supervised learning for identification of different optic disc phenotypes in primary open-angle glaucoma. Manuscript in revision.](https://www.researchsquare.com/article/rs-7237712/v1)
+
+---
 
 [Novel Knockoff Generation and Importance Measures with Heterogeneous Data via Conditional Residuals and Local Gradients](https://arxiv.org/abs/2508.14882).
 [Package #1](https://github.com/mtcade/rangerKnockoff),
 [Package #2](https://github.com/mtcade/Mald)
+
+---
+
+[A Vision Transformer model for the detection of glaucoma from optic disc photographs. Manuscript submitted for publication.](https://www.researchsquare.com/article/rs-7376329/v1)
 
 ---
 

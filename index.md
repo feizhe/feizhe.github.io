@@ -36,3 +36,7 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 ### Research Interests
 
 My research is at the intersection of statistical inference and deep learning. Current research interests include high dimensional inference, deep learning with image data, causal mediation analysis, knockoff inference, natural language processing, among others. My research is widely applied in epigenetics, medical imaging, electronic health records, and other public health areas.
+
+### Recent News
+
+- Our [paper on LLM for EHR data extraction](https://www.dropbox.com/scl/fi/nttbx9u5olfri541xmeau/EHRLLM_NIPS.pdf?rlkey=i6h2d99ddzl6ecd13s7l5q6tg&st=903gfijn&dl=0) has been accepted at The Second Workshop on GenAI for Health at NeurIPS 2025.
