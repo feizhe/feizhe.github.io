@@ -7,6 +7,7 @@ title: Courses
 ### Teaching
 
 
+- [NASC 094: Adventures in Science](https://feizhe.github.io/NASC_094/)
 - [STAT 207: Advanced Statistical Computing](https://feizhe.github.io/STAT_207/)
 - [STAT 110: Biostatistical Methods in Life Sciences](/teaching/Syllabus_STAT110_W2024.pdf)
 - [STAT 146: Statistical Forecasting Techniques](/teaching/STAT146-syllabus_W2024.pdf)
