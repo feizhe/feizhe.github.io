@@ -11,7 +11,7 @@ title: Zhe FEI
 
 <h2>Zhe FEI</h2>
 
-**Assistant Professor**  
+**Associate Professor**  
 [Statistics Department](https://statistics.ucr.edu/) 
 <br>
 [University of California Riverside](https://www.ucr.edu/)
@@ -29,7 +29,7 @@ title: Zhe FEI
 
 ### About me
 
-I am an Assistant Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from [University of Michigan, Ann Arbor](https://umich.edu/), and B.S. in Statistics and Economics from [Peking University](https://english.pku.edu.cn/).
+I am an Associate Professor in the [Statistics Department](https://statistics.ucr.edu/) at [University of California Riverside](https://www.ucr.edu/). I obtained my Ph.D. in [Biostatistics](https://sph.umich.edu/biostat/) from [University of Michigan, Ann Arbor](https://umich.edu/), and B.S. in Statistics and Economics from [Peking University](https://english.pku.edu.cn/).
 
 
 
@@ -38,6 +38,8 @@ I am an Assistant Professor in the [Statistics Department](https://statistics.uc
 My research is at the intersection of statistical inference and deep learning. Current research interests include high dimensional inference, deep learning with image data, causal mediation analysis, knockoff inference, natural language processing, among others. My research is widely applied in epigenetics, medical imaging, electronic health records, and other public health areas.
 
 ### Recent News
+
+- Congratulations to [Xin Shen](https://www.linkedin.com/in/xin-shen-3054b2b6/) on beginning her new role as Data Scientist at Certain Tech Company in fall 2026.
 
 - Our [paper on LLM for EHR data extraction](https://www.dropbox.com/scl/fi/nttbx9u5olfri541xmeau/EHRLLM_NIPS.pdf?rlkey=i6h2d99ddzl6ecd13s7l5q6tg&st=903gfijn&dl=0) has been accepted at The Second Workshop on GenAI for Health at NeurIPS 2025.
 
